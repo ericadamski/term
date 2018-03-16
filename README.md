@@ -1,0 +1,2 @@
+# term
+💻 - terminal configuration
